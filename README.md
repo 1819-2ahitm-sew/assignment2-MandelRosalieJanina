@@ -38,8 +38,8 @@ rotateLeft() | Drehe den Roboter um 90° nach links
  --- | ---
  NORTH | y - 1
  SOUTH | y + 1
- WEST |  x + 1
- EAST | x -1 
+ WEST |  x - 1
+ EAST | x + 1 
 
 - Beim Programmstart schaut der Roboter nach Süden.
 - In einer Main-Klasse wird der Roboter am Feld bewegt.
